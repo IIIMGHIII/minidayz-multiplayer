@@ -7,7 +7,7 @@
 ## Thanks to [Alpha Systems](https://github.com/AlphaSystemsPL/) for creating the mods that fix the game
 
 
-# [Play in Browser](https://raw.githack.com/MeterPreter57/minidayz-multiplayer/main/client/index.html)
+# [Play in Browser](https://raw.githack.com/IIIMGHIII/minidayz-multiplayer/main/client/index.html)
 
 # [Server files](https://github.com/MeterPreter57/minidayz-multiplayer/releases/tag/server-files)
 
