@@ -7,6 +7,24 @@
 			"version":"1.0.0"
 		},
 		{
+			"name":"Quick in-game map",
+			"description":"To show in-game map click ESC and Map button",
+			"script":"in-game-map",
+			"version":"1.0.3"
+		},
+		{
+			"name":"Map link change",
+			"description":"Change original map image link to MeterPreter57 github image link",
+			"script":"map-link-change",
+			"version":"1.0.0"
+		},
+		{
+			"name":"Canvas fix",
+			"description":"Change game resolution for better experience",
+			"script":"canvas-fix",
+			"version":"1.0.0-beta"
+		},
+		{
 			"name":"Clear cache",
 			"description":"Mainly used during development",
 			"script":"clear-cache",
